@@ -12,6 +12,3 @@ Dự án này sử dụng Python để phân tích các yếu tố quyết đị
 - Thống kê kiểm soát mục tiêu lớn (Rồng).
 - Theo dõi tỉ lệ thắng dựa trên các mốc thời gian.
 
-## 🛠 Cách chạy trên máy cá nhân
-1. `pip install -r requirements.txt`
-2. `streamlit run app.py`

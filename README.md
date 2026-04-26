@@ -10,7 +10,7 @@
 
 | Dashboard | Objectives | Champion Stats |
 |-----------|-----------|----------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Objectives](screenshots/objectives.png) | ![Champion](screenshots/champion.png) |
+| ![Dashboard](screenshots/lol1.jpg) | ![Objectives](screenshots/lol2.jpg) | ![Champion](lol3.jpg) |
 
 ---
 
